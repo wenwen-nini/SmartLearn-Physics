@@ -4,8 +4,8 @@ A smart learn physics application where students could learn different fields of
 ## How to use
 **Step 1: Install Customtkinter into the terminal**
 
-bash
+bash\
 pip install customtkinter
 
-**Step 2: Run the application**
+**Step 2: Run the application**\
 python smartlearn_physics.py
